@@ -1,4 +1,4 @@
-# sevendays
+# Flutter-SplashScreen
 
 A new Flutter project.
 
